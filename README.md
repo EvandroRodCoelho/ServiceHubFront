@@ -1,27 +1,30 @@
-# Front
+# 🎫 Sistema de Suporte / Tickets — Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.17.
+Frontend do sistema de suporte, desenvolvido em **Angular**.  
+Aqui os usuários poderão criar, visualizar e responder tickets de suporte.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Sobre o Projeto
 
-## Code scaffolding
+Aplicação web para gerenciamento de tickets.  
+Terá três tipos de usuários:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Admin:** gerencia usuários e visualiza estatísticas.
+- **Suporte:** responde tickets e altera status.
+- **Cliente:** cria e acompanha seus tickets.
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🛠️ Tecnologias
 
-## Running unit tests
+- Angular (versão mais recente)
+- TypeScript
+- SCSS
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+📅 Em desenvolvimento
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+O projeto ainda está em fase inicial.
+As telas e funcionalidades serão adicionadas futuramente.
